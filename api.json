@@ -1,0 +1,170 @@
+{
+  "CHE110 ENVIRONMENTAL STUDIES ENGINEERING": {
+    "MCQs": [
+      {
+        "question": "What is the primary cause of global warming?",
+        "options": ["Deforestation", "Industrial Emissions", "Solar Activity", "Volcanic Eruptions"],
+        "answer": "Industrial Emissions"
+      },
+      {
+        "question": "Which gas is most responsible for the greenhouse effect?",
+        "options": ["Carbon Dioxide", "Methane", "Nitrous Oxide", "Ozone"],
+        "answer": "Carbon Dioxide"
+      }
+    ]
+  },
+  "CSE111 ORIENTATION TO COMPUTING-I": {
+    "MCQs": [
+      {
+        "question": "Which of the following is a high-level programming language?",
+        "options": ["Assembly", "Java", "C", "Machine Language"],
+        "answer": "Java"
+      },
+      {
+        "question": "What does CPU stand for?",
+        "options": ["Central Processing Unit", "Central Program Unit", "Computer Processing Unit", "Central Power Unit"],
+        "answer": "Central Processing Unit"
+      }
+    ]
+  },
+  "CSE326 INTERNET PROGRAMMING LABORATORY": {
+    "MCQs": [
+      {
+        "question": "Which HTML tag is used to define an internal style sheet?",
+        "options": ["<style>", "<script>", "<css>", "<link>"],
+        "answer": "<style>"
+      },
+      {
+        "question": "What does CSS stand for?",
+        "options": ["Cascading Style Sheets", "Computer Style Sheets", "Creative Style Sheets", "Central Style Sheets"],
+        "answer": "Cascading Style Sheets"
+      }
+    ]
+  },
+  "ECE249 BASIC ELECTRICAL AND ELECTRONICS ENGINEERING": {
+    "MCQs": [
+      {
+        "question": "What is the unit of electrical resistance?",
+        "options": ["Volt", "Ampere", "Ohm", "Watt"],
+        "answer": "Ohm"
+      },
+      {
+        "question": "Which component is used to store electrical energy?",
+        "options": ["Resistor", "Capacitor", "Inductor", "Transistor"],
+        "answer": "Capacitor"
+      }
+    ]
+  },
+  "ECE279 BASIC ELECTRICAL AND ELECTRONICS ENGINEERING LABORATORY": {
+    "MCQs": [
+      {
+        "question": "What instrument is used to measure current?",
+        "options": ["Voltmeter", "Ammeter", "Ohmmeter", "Wattmeter"],
+        "answer": "Ammeter"
+      },
+      {
+        "question": "Which law is used to determine the current in a circuit?",
+        "options": ["Ohm's Law", "Kirchhoff's Law", "Faraday's Law", "Ampere's Law"],
+        "answer": "Ohm's Law"
+      }
+    ]
+  },
+  "INT108 PYTHON PROGRAMMING": {
+    "MCQs": [
+      {
+        "question": "Which of the following is used to create a function in Python?",
+        "options": ["def", "function", "func", "create"],
+        "answer": "def"
+      },
+      {
+        "question": "What is the output of print(2 ** 3)?",
+        "options": ["6", "8", "9", "5"],
+        "answer": "8"
+      }
+    ]
+  },
+  "INT306 DATABASE MANAGEMENT SYSTEMS": {
+    "MCQs": [
+      {
+        "question": "Which SQL command is used to retrieve data from a database?",
+        "options": ["SELECT", "INSERT", "UPDATE", "DELETE"],
+        "answer": "SELECT"
+      },
+      {
+        "question": "What is the purpose of a primary key in a database?",
+        "options": ["To uniquely identify a record", "To link tables", "To sort data", "To allow duplicate records"],
+        "answer": "To uniquely identify a record"
+      }
+    ]
+  },
+  "MEC136 ENGINEERING GRAPHICS AND DIGITAL FABRICATION": {
+    "MCQs": [
+      {
+        "question": "What does CAD stand for in engineering graphics?",
+        "options": ["Computer Aided Design", "Computer Aided Drafting", "Computer Assisted Design", "Computer Assisted Drafting"],
+        "answer": "Computer Aided Design"
+      },
+      {
+        "question": "Which tool is used to create 3D models?",
+        "options": ["AutoCAD", "Photoshop", "Illustrator", "InDesign"],
+        "answer": "AutoCAD"
+      }
+    ]
+  },
+  "MTH174 ENGINEERING MATHEMATICS": {
+    "MCQs": [
+      {
+        "question": "What is the integral of x with respect to x?",
+        "options": ["x", "x^2/2", "x^2", "2x"],
+        "answer": "x^2/2"
+      },
+      {
+        "question": "What is the derivative of sin(x)?",
+        "options": ["cos(x)", "-cos(x)", "sin(x)", "-sin(x)"],
+        "answer": "cos(x)"
+      }
+    ]
+  },
+  "MTH401 DISCRETE MATHEMATICS": {
+    "MCQs": [
+      {
+        "question": "What is the sum of the first n natural numbers?",
+        "options": ["n(n+1)/2", "n(n-1)/2", "n(n+1)", "n(n-1)"],
+        "answer": "n(n+1)/2"
+      },
+      {
+        "question": "In graph theory, what is a vertex?",
+        "options": ["A point where edges meet", "A line connecting two nodes", "A set of nodes", "A path between nodes"],
+        "answer": "A point where edges meet"
+      }
+    ]
+  },
+  "PES318 SOFT SKILLS-I": {
+    "MCQs": [
+      {
+        "question": "What is the primary goal of effective communication?",
+        "options": ["To convey information clearly", "To impress others", "To speak loudly", "To use complex language"],
+        "answer": "To convey information clearly"
+      },
+      {
+        "question": "Which of the following is a soft skill?",
+        "options": ["Technical expertise", "Project management", "Public speaking", "Programming"],
+        "answer": "Public speaking"
+      }
+    ]
+  },
+  "PHY110 ENGINEERING PHYSICS": {
+    "MCQs": [
+      {
+        "question": "What is the unit of force in physics?",
+        "options": ["Newton", "Joule", "Watt", "Pascal"],
+        "answer": "Newton"
+      },
+      {
+        "question": "What does the law of inertia state?",
+        "options": ["An object in motion stays in motion unless acted upon", "Force equals mass times acceleration", "Energy cannot be created or destroyed", "For every action, there is an equal and opposite reaction"],
+        "answer": "An object in motion stays in motion unless acted upon"
+      }
+    ]
+  }
+}
