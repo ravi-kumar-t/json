@@ -27,7 +27,7 @@
       }
     ]
   },
-  "MTH101 MATHEMATICS-I": {
+  "MTH174 ENGINEERING MATHEMATICS": {
     "MCQs": [
       {
         "question": "What is the derivative of sin(x)?",
@@ -41,7 +41,21 @@
       }
     ]
   },
-  "PHY101 PHYSICS-I": {
+  "MTH401 ENGINEERING MATHEMATICS": {
+    "MCQs": [
+      {
+        "question": "What is the MTH401?",
+        "options": ["cos(x)", "-cos(x)", "sin(x)", "-sin(x)"],
+        "answer": "cos(x)"
+      },
+      {
+        "question": "What is the degree of dx?",
+        "options": ["ln|x| + C", "x + C", "e^x + C", "-1/x + C"],
+        "answer": "ln|x| + C"
+      }
+    ]
+  },
+  "PHY110 ENGINEERING PHYSICS": {
     "MCQs": [
       {
         "question": "What is the speed of light in a vacuum?",
@@ -55,7 +69,7 @@
       }
     ]
   },
-  "CHE120 CHEMISTRY-I": {
+  "CHE110 ENVIRONMENTAL STUDIES ENGINEERING": {
     "MCQs": [
       {
         "question": "What is the molecular formula of water?",
@@ -69,7 +83,7 @@
       }
     ]
   },
-  "BIO101 BIOLOGY-I": {
+  "PES318 SOFT SKILLS-I": {
     "MCQs": [
       {
         "question": "What is the basic unit of life?",
