@@ -1,100 +1,290 @@
 {
-  "CSE111 ORIENTATION TO COMPUTING-I": {
-    "MCQs": [
-      {
-        "question": "What is the main purpose of a CPU?",
-        "options": ["Perform calculations", "Store data", "Display graphics", "Manage memory"],
-        "answer": "Perform calculations"
-      },
-      {
-        "question": "Which of the following is an operating system?",
-        "options": ["Chrome", "Windows", "Photoshop", "Excel"],
-        "answer": "Windows"
-      }
-    ]
-  },
-  "CHE110 ENVIRONMENTAL STUDIES ENGINEERING": {
-    "MCQs": [
-      {
-        "question": "What is the greenhouse effect?",
-        "options": ["Heating of the earth's surface", "Cooling of the earth's surface", "Ozone depletion", "Acid rain"],
-        "answer": "Heating of the earth's surface"
-      },
-      {
-        "question": "Which gas is a major contributor to global warming?",
-        "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
-        "answer": "Carbon dioxide"
-      }
-    ]
-  },
-  "MTH174 ENGINEERING MATHEMATICS": {
-    "MCQs": [
-      {
-        "question": "What is the derivative of sin(x)?",
-        "options": ["cos(x)", "-cos(x)", "sin(x)", "-sin(x)"],
-        "answer": "cos(x)"
-      },
-      {
-        "question": "What is the integral of 1/x dx?",
-        "options": ["ln|x| + C", "x + C", "e^x + C", "-1/x + C"],
-        "answer": "ln|x| + C"
-      }
-    ]
-  },
-  "MTH401 ENGINEERING MATHEMATICS": {
-    "MCQs": [
-      {
-        "question": "What is the MTH401?",
-        "options": ["cos(x)", "-cos(x)", "sin(x)", "-sin(x)"],
-        "answer": "cos(x)"
-      },
-      {
-        "question": "What is the degree of dx?",
-        "options": ["ln|x| + C", "x + C", "e^x + C", "-1/x + C"],
-        "answer": "ln|x| + C"
-      }
-    ]
-  },
-  "PHY110 ENGINEERING PHYSICS": {
-    "MCQs": [
-      {
-        "question": "What is the speed of light in a vacuum?",
-        "options": ["3 x 10^8 m/s", "3 x 10^6 m/s", "3 x 10^10 m/s", "3 x 10^4 m/s"],
-        "answer": "3 x 10^8 m/s"
-      },
-      {
-        "question": "What is the formula for Newton's second law?",
-        "options": ["F = m * a", "F = m / a", "F = m + a", "F = m - a"],
-        "answer": "F = m * a"
-      }
-    ]
-  },
-  "CHE110 ENVIRONMENTAL STUDIES ENGINEERING": {
-    "MCQs": [
-      {
-        "question": "What is the molecular formula of water?",
-        "options": ["H2O", "CO2", "NaCl", "CH4"],
-        "answer": "H2O"
-      },
-      {
-        "question": "What is the pH of pure water?",
-        "options": ["7", "0", "14", "3"],
-        "answer": "7"
-      }
-    ]
-  },
-  "PES318 SOFT SKILLS-I": {
-    "MCQs": [
-      {
-        "question": "What is the basic unit of life?",
-        "options": ["Cell", "Atom", "Molecule", "Organ"],
-        "answer": "Cell"
-      },
-      {
-        "question": "Which organelle is known as the powerhouse of the cell?",
-        "options": ["Mitochondria", "Nucleus", "Ribosome", "Endoplasmic Reticulum"],
-        "answer": "Mitochondria"
-      }
-    ]
-  }
+    "CHE110 ENVIRONMENTAL STUDIES ENGINEERING": {
+        "MCQs": [
+            {
+                "question": "What is the main objective of environmental studies?",
+                "options": [
+                    "To study the effects of pollution",
+                    "To understand environmental policies",
+                    "To promote sustainable development",
+                    "To manage natural resources"
+                ],
+                "answer": "To promote sustainable development"
+            },
+            {
+                "question": "Which of the following is a renewable resource?",
+                "options": [
+                    "Coal",
+                    "Natural Gas",
+                    "Solar Energy",
+                    "Nuclear Energy"
+                ],
+                "answer": "Solar Energy"
+            }
+        ]
+    },
+    "CSE111 ORIENTATION TO COMPUTING-I": {
+        "MCQs": [
+            {
+                "question": "What does CPU stand for?",
+                "options": [
+                    "Central Processing Unit",
+                    "Central Power Unit",
+                    "Computer Processing Unit",
+                    "Centralized Processing Unit"
+                ],
+                "answer": "Central Processing Unit"
+            },
+            {
+                "question": "Which of the following is a programming language?",
+                "options": [
+                    "HTML",
+                    "CSS",
+                    "Python",
+                    "SQL"
+                ],
+                "answer": "Python"
+            }
+        ]
+    },
+    "CSE326 INTERNET PROGRAMMING LABORATORY": {
+        "MCQs": [
+            {
+                "question": "Which language is commonly used for client-side scripting?",
+                "options": [
+                    "Python",
+                    "JavaScript",
+                    "Java",
+                    "C++"
+                ],
+                "answer": "JavaScript"
+            },
+            {
+                "question": "What does CSS stand for?",
+                "options": [
+                    "Cascading Style Sheets",
+                    "Computer Style Sheets",
+                    "Creative Style Sheets",
+                    "Central Style Sheets"
+                ],
+                "answer": "Cascading Style Sheets"
+            }
+        ]
+    },
+    "ECE249 BASIC ELECTRICAL AND ELECTRONICS ENGINEERING": {
+        "MCQs": [
+            {
+                "question": "What is the unit of electrical resistance?",
+                "options": [
+                    "Ohm",
+                    "Volt",
+                    "Ampere",
+                    "Watt"
+                ],
+                "answer": "Ohm"
+            },
+            {
+                "question": "Which of the following is a semiconductor material?",
+                "options": [
+                    "Copper",
+                    "Aluminum",
+                    "Silicon",
+                    "Gold"
+                ],
+                "answer": "Silicon"
+            }
+        ]
+    },
+    "ECE279 BASIC ELECTRICAL AND ELECTRONICS ENGINEERING LABORATORY": {
+        "MCQs": [
+            {
+                "question": "What instrument is used to measure electrical current?",
+                "options": [
+                    "Voltmeter",
+                    "Ammeter",
+                    "Ohmmeter",
+                    "Oscilloscope"
+                ],
+                "answer": "Ammeter"
+            },
+            {
+                "question": "In an AC circuit, what does RMS stand for?",
+                "options": [
+                    "Root Mean Square",
+                    "Random Mean Square",
+                    "Regular Mean Square",
+                    "Real Mean Square"
+                ],
+                "answer": "Root Mean Square"
+            }
+        ]
+    },
+    "INT108 PYTHON PROGRAMMING": {
+        "MCQs": [
+            {
+                "question": "Which of the following is a valid Python variable name?",
+                "options": [
+                    "1_variable",
+                    "variable_1",
+                    "variable@1",
+                    "variable 1"
+                ],
+                "answer": "variable_1"
+            },
+            {
+                "question": "What does 'print()' function do in Python?",
+                "options": [
+                    "Prints text to the console",
+                    "Returns a value",
+                    "Reads input from the user",
+                    "Creates a new file"
+                ],
+                "answer": "Prints text to the console"
+            }
+        ]
+    },
+    "INT306 DATABASE MANAGEMENT SYSTEMS": {
+        "MCQs": [
+            {
+                "question": "Which SQL statement is used to extract data from a database?",
+                "options": [
+                    "SELECT",
+                    "INSERT",
+                    "UPDATE",
+                    "DELETE"
+                ],
+                "answer": "SELECT"
+            },
+            {
+                "question": "What does DBMS stand for?",
+                "options": [
+                    "Database Management System",
+                    "Data Base Management Service",
+                    "Database Management Service",
+                    "Data Base Management System"
+                ],
+                "answer": "Database Management System"
+            }
+        ]
+    },
+    "MEC136 ENGINEERING GRAPHICS AND DIGITAL FABRICATION": {
+        "MCQs": [
+            {
+                "question": "What tool is commonly used for creating technical drawings?",
+                "options": [
+                    "Computer-Aided Design (CAD)",
+                    "Text Editor",
+                    "Spreadsheet Software",
+                    "Database Software"
+                ],
+                "answer": "Computer-Aided Design (CAD)"
+            },
+            {
+                "question": "Which of the following is not a type of projection?",
+                "options": [
+                    "Isometric Projection",
+                    "Orthographic Projection",
+                    "Perspective Projection",
+                    "Digital Projection"
+                ],
+                "answer": "Digital Projection"
+            }
+        ]
+    },
+    "MTH174 ENGINEERING MATHEMATICS": {
+        "MCQs": [
+            {
+                "question": "What is the derivative of sin(x)?",
+                "options": [
+                    "cos(x)",
+                    "sin(x)",
+                    "-cos(x)",
+                    "-sin(x)"
+                ],
+                "answer": "cos(x)"
+            },
+            {
+                "question": "What is the integral of 1/x dx?",
+                "options": [
+                    "ln|x| + C",
+                    "x + C",
+                    "1/x + C",
+                    "x^2/2 + C"
+                ],
+                "answer": "ln|x| + C"
+            }
+        ]
+    },
+    "MTH401 DISCRETE MATHEMATICS": {
+        "MCQs": [
+            {
+                "question": "Which of the following is a type of graph in discrete mathematics?",
+                "options": [
+                    "Bar Graph",
+                    "Line Graph",
+                    "Tree Graph",
+                    "Pie Chart"
+                ],
+                "answer": "Tree Graph"
+            },
+            {
+                "question": "What is the principle of mathematical induction used for?",
+                "options": [
+                    "To prove statements about natural numbers",
+                    "To solve differential equations",
+                    "To find limits of functions",
+                    "To integrate functions"
+                ],
+                "answer": "To prove statements about natural numbers"
+            }
+        ]
+    },
+    "PES318 SOFT SKILLS-I": {
+        "MCQs": [
+            {
+                "question": "Which of the following is an example of a soft skill?",
+                "options": [
+                    "Technical Writing",
+                    "Programming",
+                    "Communication",
+                    "Mathematics"
+                ],
+                "answer": "Communication"
+            },
+            {
+                "question": "What is important in effective teamwork?",
+                "options": [
+                    "Individual performance",
+                    "Clear communication",
+                    "Solo work",
+                    "Technical knowledge"
+                ],
+                "answer": "Clear communication"
+            }
+        ]
+    },
+    "PHY110 ENGINEERING PHYSICS": {
+        "MCQs": [
+            {
+                "question": "What is the speed of light in a vacuum?",
+                "options": [
+                    "3 × 10^8 m/s",
+                    "3 × 10^6 m/s",
+                    "3 × 10^9 m/s",
+                    "3 × 10^7 m/s"
+                ],
+                "answer": "3 × 10^8 m/s"
+            },
+            {
+                "question": "Which law states that for every action there is an equal and opposite reaction?",
+                "options": [
+                    "Newton's First Law",
+                    "Newton's Second Law",
+                    "Newton's Third Law",
+                    "Law of Universal Gravitation"
+                ],
+                "answer": "Newton's Third Law"
+            }
+        ]
+    }
 }
