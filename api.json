@@ -228,14 +228,14 @@
                 "answer": "Tree Graph"
             },
             {
-                "question": "What is the principle of mathematical induction used for?",
-                "options": [
-                    "To prove statements about natural numbers",
-                    "To solve differential equations",
-                    "To find limits of functions",
-                    "To integrate functions"
-                ],
-                "answer": "To prove statements about natural numbers"
+                "question": "The value of Delta ^ 5 * \{x ^ 4 + 5x ^ 3 - 6x + 10\} is",
+              "options": [
+                  "24",
+                  "120",
+                  "0",
+                  "4"
+              ],
+              "answer": "24"
             }
         ]
     },
